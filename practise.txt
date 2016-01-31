@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lets see complete newwwwww 
+=======
+pushing bth side i am changing file
+>>>>>>> dbf38205d0ebc4d682f742d2917631dc63206e11
